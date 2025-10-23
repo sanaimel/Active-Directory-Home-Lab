@@ -8,7 +8,8 @@ This lab simulates a small enterprise network environment with centralized ident
 ## 🧩 Overview
 
 This project demonstrates the setup and configuration of a complete Active Directory environment in a virtualized lab.  
-It includes a **Domain Controller (Server 2022)** hosting Active Directory, DNS, DHCP, and NAT services, and a **Windows 10 client** joined to the domain. The lab is designed for **cybersecurity training, system administration practice, and enterprise networking fundamentals**.
+It includes a **Domain Controller (Server 2022)** hosting Active Directory, DNS, DHCP, and NAT services, and a **Windows 10 client** joined to the domain. 
+The lab is designed for **cybersecurity training, system administration practice, and enterprise networking fundamentals**.
 
 **Technical Documentation:** https://docs.google.com/document/d/1zWeKT0CrzkXmUyyHHSs_mvr_KYqSZclnaf4GLAtYXcI/edit?tab=t.0
 
